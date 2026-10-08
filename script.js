@@ -32,9 +32,9 @@ const videos = [
 const SHORTS_TO_SHOW = 4;
 const shortsPool = [
   { title: "Micro-Wave — Fast Paced Edit", youtubeId: "Sa94R81Otfs" }
-  // { title: "Short title", youtubeId: "PASTE_ID_HERE" },
-  // { title: "Short title", youtubeId: "PASTE_ID_HERE" },
-  // { title: "Short title", youtubeId: "PASTE_ID_HERE" },
+  { title: "Study Ratna - Shorts learning", youtubeId: "izVwX-fH0KM" },
+  { title: "Solve Arena - Promotional humourous edit", youtubeId: "ed1QlA7JfzQ" },
+   { title: "Cinematic Film clip edit ", youtubeId: "CgXw3ydSizQ" },
   // { title: "Short title", youtubeId: "PASTE_ID_HERE" },
 ];
 
